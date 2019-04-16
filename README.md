@@ -1,1 +1,1 @@
-# hard
+Adaptive layout
